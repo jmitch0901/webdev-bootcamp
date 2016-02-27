@@ -1,0 +1,14 @@
+{
+  "name": "routes_practice",
+  "version": "1.0.0",
+  "description": "Routes practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Mitchell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
